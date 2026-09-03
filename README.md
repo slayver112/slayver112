@@ -1,6 +1,4 @@
-# 👋 Привет, я Вячеслав
-
-### 🚀 Backend-разработчик | Python · Go · C++
+### 🚀 Backend-разработчик | Python · C++ · Go
 
 ---
 
@@ -32,7 +30,7 @@
 
 ---
 
-### 🛠 Что я умею
+### Что я умею
 
 - Асинхронное программирование на Python (FastAPI, asyncio)
 - Разработка REST API и микросервисной архитектуры
@@ -45,7 +43,7 @@
 
 ---
 
-### 📫 Связаться со мной
+### Связаться со мной
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/umo666)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/slayver112)
