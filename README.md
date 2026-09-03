@@ -1,8 +1,8 @@
-### 🚀 Backend-разработчик | Python · C++ · Go
+### Backend-разработчик | Python · C++ · Go
 
 ---
 
-### 🧰 Мой стек технологий
+### Мой стек
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -17,16 +17,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
----
-
-### 📌 Основные проекты
-
-| Проект | Стек | Описание |
-|--------|------|----------|
-| [**Order Processing System**](https://github.com/slayver112/order-processing-system) | FastAPI, Kafka, PostgreSQL, Docker | Event-driven микросервисная система обработки заказов |
-| [**FastAPI Auth Service**](https://github.com/slayver112/fastapi) | FastAPI, SQLAlchemy, PostgreSQL | Асинхронный REST API с JWT-авторизацией |
-| [**MusicFeed**](https://github.com/IGMA-IGMA/music_fed364847) | Django, DRF, PostgreSQL, Docker | Веб-сервис для прослушивания музыки (командный проект) |
 
 ---
 
@@ -48,7 +38,3 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/umo666)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/slayver112)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vyacheslav.tsvetkov.sar@gmail.com)
-
----
-
-> 💡 Все мои наработки открыты в репозиториях выше. Спасибо за внимание!
