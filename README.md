@@ -4,7 +4,7 @@
 
 ### Мой стек
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python]([https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white))
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -22,14 +22,14 @@
 
 ### Что я умею
 
-- Асинхронное программирование на Python (FastAPI, asyncio)
-- Разработка REST API и микросервисной архитектуры
-- Работа с очередями сообщений (Kafka, Redis)
-- Контейнеризация и оркестрация (Docker, Docker Compose)
-- Мониторинг (Prometheus + Grafana)
-- Написание тестов (pytest, покрытие >80%)
-- Работа с PostgreSQL, SQLAlchemy (async), Alembic
-- Базовый опыт с Go и C++
+⛧ Асинхронное программирование на Python (FastAPI, asyncio)
+⛧ Разработка REST API и микросервисной архитектуры
+⛧ Работа с очередями сообщений (Kafka, Redis)
+⛧ Контейнеризация и оркестрация (Docker, Docker Compose)
+⛧ Мониторинг (Prometheus + Grafana)
+⛧ Написание тестов (pytest, покрытие >80%)
+⛧ Работа с PostgreSQL, SQLAlchemy (async), Alembic
+⛧ Базовый опыт с Go и C++
 
 ---
 
